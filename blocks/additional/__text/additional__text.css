@@ -1,0 +1,14 @@
+.additional__text{
+    margin:0 auto;
+    position: relative;
+    z-index: 500;
+    width: 248px;
+    margin-top:auto;
+    margin-bottom: 30px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+}

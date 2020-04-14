@@ -1,0 +1,14 @@
+@import url("content-title_additional-lh.css");
+@import url("content-title_margin.css");
+
+.content-title{
+    width:800px;
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 78px;
+    text-align: center;
+    color: #FFFFFF;
+
+}

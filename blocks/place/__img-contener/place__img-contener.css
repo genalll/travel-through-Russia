@@ -1,0 +1,6 @@
+.place__img-contener{
+    margin-top:0;
+    display:flex;
+    flex-direction: row;
+    align-items: flex-end;
+}

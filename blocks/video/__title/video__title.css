@@ -1,0 +1,14 @@
+.video__title{
+    position: relative;
+    margin:0;
+    width:322px;
+    margin-left:30px;
+    margin-top:12px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 39px;
+    color: #FFFFFF;
+    z-index: 500;
+}

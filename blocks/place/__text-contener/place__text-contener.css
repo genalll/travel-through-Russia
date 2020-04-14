@@ -1,0 +1,4 @@
+.place__text-contener{
+    display:flex;
+    flex-direction: row;
+}

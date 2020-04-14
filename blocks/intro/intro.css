@@ -1,0 +1,16 @@
+@import url('__title/intro__title.css');
+@import url('__subtitle/intro__subtitle.css');
+@import url('__content-row/intro__content-row.css');
+@import url('__main-text/intro__main-text.css');
+@import url('__caption-text/intro__caption-text.css');
+@import url('__caption-text-stat/intro__caption-text-stat.css');
+@import url('__no-bold/intro__nobold.css');
+@import url('intro_margin.css');
+
+.intro{
+    width: 984px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-family: 'Inter', Arial, sans-serif;
+}

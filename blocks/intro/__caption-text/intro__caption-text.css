@@ -1,0 +1,13 @@
+.intro__caption-text{
+    display: block;
+    list-style-type: none;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 16px;
+    color: #FFFFFF;
+    margin: 0 auto;
+    margin-left:18px;
+    padding: 0;
+}

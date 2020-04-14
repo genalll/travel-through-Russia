@@ -1,0 +1,27 @@
+.video__item{
+    position: relative;
+    width: 583px;
+    min-height: 323px;
+    background-size: contain;
+    opacity: 0.8;
+    text-decoration: none;
+    z-index: 100;
+    border-radius: 10px;
+}
+
+.video__item::after {
+    width: 583px;
+    height: 323px;
+    content: " ";
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.5;
+    background-color: #000;
+    border-radius: 10px;
+   
+  }
+  
+  .video__item:hover::after {
+      opacity: 0.8;
+  }

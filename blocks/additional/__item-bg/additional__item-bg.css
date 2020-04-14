@@ -1,0 +1,14 @@
+@import url('additional__item-bg_background_buhta.css');
+@import url('additional__item-bg_background_cherepove.css');
+@import url('additional__item-bg_background_chihan.css');
+@import url('additional__item-bg_background_nikola.css');
+.additional__item-bg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 284px;
+    height: 330px;
+    background-size: cover;
+    border-radius: 6px;
+    z-index: -0;
+}

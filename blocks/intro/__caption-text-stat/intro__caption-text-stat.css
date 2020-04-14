@@ -1,0 +1,14 @@
+.intro__caption-text-stat{
+    margin: 0 auto;
+    margin-top:35px;
+    margin-left:0;
+    margin-right: auto;
+    padding:0;
+    list-style-type: none;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+}

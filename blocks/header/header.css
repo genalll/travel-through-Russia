@@ -1,0 +1,13 @@
+@import url('__langs/header__langs.css');
+@import url('__logo/header__logo.css');
+@import url('__lang/header__lang.css');
+@import url('__lang/header__lang_active.css');
+@import url('header_margin.css');
+.header{
+    display:flex;
+    width: 1184px;
+    justify-content: flex-start;
+    font-family: 'Inter', Arial, sans-serif;
+}
+
+    

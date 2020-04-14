@@ -1,0 +1,17 @@
+.barentsburg__link{
+    width:282px;
+    margin-top: 7px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+
+
+}
+.barentsburg__link:hover{
+    opacity: .8;
+    transition: 1s;
+}

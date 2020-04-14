@@ -1,0 +1,14 @@
+.cover__bg{
+    position: absolute;
+    top:0;
+    left:0;
+    background:black;
+    opacity: 0;
+    background-size: cover ;
+    width: 1184px;
+    min-height: 594px;
+    z-index: 100;
+    text-decoration-line: none;
+    z-index: 1;
+}
+

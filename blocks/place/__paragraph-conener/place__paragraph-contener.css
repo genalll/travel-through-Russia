@@ -1,0 +1,6 @@
+.place__paragraph-contener{
+  display:flex;
+  flex-direction: column;
+  width:484px;
+  margin-left:40px;
+}
